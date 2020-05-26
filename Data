@@ -8,3 +8,5 @@ About the data :-
 – Title : Headline of the news article
 – Text : Body of the news article
 – Label : If an article is fake or real
+
+Here for model fitting we are conisdering Title+Text (Body+Headline) so that we get maximum data for our model to perform better.

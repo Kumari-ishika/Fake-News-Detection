@@ -1,0 +1,10 @@
+# Fake news Detection dataset link
+https://www.kaggle.com/hassanamin/textdb3
+
+About the data :-
+■ 'fake_or_real_news.csv' data contains data about the news article and it’s headline.
+■ It has 4 columns:-
+– Unnamed:0 : ID of the article
+– Title : Headline of the news article
+– Text : Body of the news article
+– Label : If an article is fake or real
